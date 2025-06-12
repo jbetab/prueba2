@@ -42,11 +42,3 @@ intagram
 Diseño
 
 Todos los botones menos los tres del footer tienen la interactividad con el cursor se agrandan y cambian de color , cuando no se ha llenado el formulario el color del boton es mas opaco las dos ventanas son responsivas 
-
-Realizado por: Jeronimo betancur betancur
-
-clan:Hopper
-
-Correo:jeronimobetancurbetancur0@gmail.com
-
-cc:1038866922
